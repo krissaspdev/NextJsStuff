@@ -1,1 +1,2 @@
 https://docs.microsoft.com/en-us/azure/app-service/configure-language-nodejs?pivots=platform-linux#configure-nodejs-server
+https://stackoverflow.com/questions/54908662/unable-to-deploy-next-js-to-azure
